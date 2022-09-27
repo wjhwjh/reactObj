@@ -1,0 +1,23 @@
+react依赖的js库?
+
+Next.js Gatsby  
+
+Neutrino
+nwb 
+Parcel
+Razzle 
+
+项目管理
+
+一个 包管理器 ，如 Yarn 或 npm 。 它可让您充分利用第三方软件包的庞大生态系统，并轻松安装或更新它们。
+一个 打包器，例如 webpack 或 Parcel。 它允许您编写模块化代码，并将它们组合在一起成为小的包，以优化加载时间。
+一个 编译器，例如Babel。 它可以让你编写的现代 JavaScript 代码在旧版浏览器中仍然可用
+
+处理包
+react  
+react-dom
+
+JSX => Javascript和XML结合的一种格式。是 JavaScript 的语法扩展，只要你把HTML代码写在JS里，那就是JSX。
+JSP
+
+git remote -v 查看
